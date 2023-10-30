@@ -1,6 +1,11 @@
-A repository for housing a community research project about marijuana arrests in Pittsburgh.
+# The question we hope to answer
+- What is the reality of marijuana citations and arrests in Pittsburgh?
+   - Perspectives may include geographic, demographic, economic, etc.
+   - Has that changed over time, especially in the context of 2015 legislation to decriminalize marijuana?
 
 # How to use
+Look at the README and RESOURCES, then explore!
+
 Instructions will go here about how to use the this repo's data, code, etc.
 
 # Contributing & access
