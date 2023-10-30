@@ -1,7 +1,7 @@
 A repository for housing a community research project about marijuana arrests in Pittsburgh.
 
 # How to use
-Instructions will go here about how to use the data, code, etc.
+Instructions will go here about how to use the this repo's data, code, etc.
 
 # Contributing & access
 PDAP-hosted research projects are always open-source so they can be adapted to other regions or data types.
