@@ -13,18 +13,20 @@ How long do you think it will take?
 This project should take three to four weeks. I will have to learn how to analyze the data through the programming language Python and then create visualizations to display the different patterns within the data. 
 
 What kind of work do you think will need to be done to answer the request? 
-I will need to create a Google Collab notebook in order to utilize Python to analyze the data. 
+I will need to create a Google Colab notebook in order to utilize Python to analyze the data. 
 
 Based on the above, do you think the question is feasible?
 I do think this question is feasible.  
 
 ## Analysis/research/steps completed
-I began by creating a Google Collab Notebook in order to examine and analyze the data using the Python coding langauge. The notebook I created is attached below. 
+I began by creating a Google Colab Notebook in order to examine and analyze the data using the Python coding langauge. The notebook I created is attached below. 
 
 ## Response
-Summarize your findings, or link to any code you created.
+I created a Google Colab Notebook using Python. The code is linked below. 
+(https://colab.research.google.com/drive/1qaKdXCHxCg2IUhiXsnnfSXy5sZ5J2I6h#scrollTo=dIZTW7XgZYnN)
 
 ## Sources
-1. List any sources you referenced in the response.
-2. Links work [like this](https://link-to-website.com).
-3. If you have files to include, upload them and list them here.
+1. Western Pennsylvania Regional Data Center 
+2. Police Data Accesibility Project
+3. Link for the CSV I used for my data from the Western Pennsylvania Regional Data Center
+   (https://raw.githubusercontent.com/Police-Data-Accessibility-Project/caasi-help-desk/main/mj-decriminalization/analysis/grief%20to%20action/arrests_citations_merged_data.csv)
