@@ -40,7 +40,7 @@ We ran a pilot of the data help desk from about November 2023 to April 2024. We 
 
 - Visibility on work in progress
    - Participants did not publish anything until it was "final", so there was no opportunity for feedback or iteration.
-   - Work is not graded, so transparency can be the default. We'll start response by creating a README and a **draft pull requests** for each response.
+   - Work is not graded, so transparency can be the default. We'll start response by creating a README and a **draft pull request** for each response.
  - Collaboration
    - Participants exclusively worked alone, so we did not benefit from the group being multidisciplinary.
    - We will treat questions as our **collective responsibility by default**, with room for individual contributions on tasks.
