@@ -22,7 +22,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-4. Open the notebook
+4. Install the IPython Kernel in the virtual environment.
+
+```
+python ipykernel install --user --name=venv --display-name "Python (venv)"
+```
+
+5. Open the notebook
 The notebook in the top level of the `analysis` folder is most recent.
 
 
