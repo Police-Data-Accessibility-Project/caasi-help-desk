@@ -10,7 +10,7 @@ Each folder represents a community question. Start with any folder's README and 
 Here are some things to check out / understand before you get started:
 1. To learn more about PDAP, [start here](https://pdap.io/). Try out the search function! See what it's like to make a request!
 2. Familiarize yourself with the [terms we use](https://docs.pdap.io/activities/terms-and-definitions) and look at some [examples of different record types](https://docs.pdap.io/activities/data-dictionaries/record-types-taxonomy).
-3. Sign up as a volunteer at PDAP [with our docs](https://docs.pdap.io/activities/contribute).
+3. Sign up as a volunteer at PDAP [on our website](https://pdap.io/community).
 4. Look at the Projects associated with this repository, especially the CAASI one using the links at the top.
 5. Poke around this repository to see some past student work.
 
