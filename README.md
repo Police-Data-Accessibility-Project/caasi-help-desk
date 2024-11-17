@@ -4,14 +4,14 @@ This represents the results of an experimental partnership between the Police Da
 ## Navigating this repository
 Each folder represents a community question. Start with any folder's README and explore from there.
 
-# First-time volunteers
+# First-time contributors
 
 ## Orientation (10–20 minutes)
 Here are some things to check out / understand before you get started:
 1. To learn more about PDAP, [start here](https://pdap.io/). Try out the search function! See what it's like to make a request!
 2. Familiarize yourself with the [terms we use](https://docs.pdap.io/activities/terms-and-definitions) and look at some [examples of different record types](https://docs.pdap.io/activities/data-dictionaries/record-types-taxonomy).
 3. Sign up as a volunteer at PDAP [with our docs](https://docs.pdap.io/activities/contribute).
-4. Look at some open requests [using this project](https://github.com/orgs/Police-Data-Accessibility-Project/projects/26/views/1).
+4. Look at the Projects associated with this repository, especially the CAASI one using the links at the top.
 5. Poke around this repository to see some past student work.
 
 ## Get started (1–2 hours)
@@ -35,7 +35,7 @@ GitHub is for storing code-related files and projects. It's great for open-sourc
 # Findings
 PDAP is assisting with the execution of this research project by providing data, tools, and access, but does not endorse or guarantee the accuracy of its findings.
 
-# Meta-learnings from the first cohort
+# Learnings from Cohort 1, 11/2023–4/2024
 We ran a pilot of the data help desk from about November 2023 to April 2024. We examined the effectiveness of the experiment to make this program more effective over time.
 
 - Visibility on work in progress
